@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FoodDeliveryLanding/static/css/main.56f244f0.css",
+    "main.js": "/FoodDeliveryLanding/static/js/main.e68e8e78.js",
+    "static/media/Rectangle48.png": "/FoodDeliveryLanding/static/media/Rectangle48.7e1ddaca31926031587f.png",
+    "static/media/Rectangle47.png": "/FoodDeliveryLanding/static/media/Rectangle47.a92aaa644817ebb0ac55.png",
+    "static/media/Group53.png": "/FoodDeliveryLanding/static/media/Group53.343b33956b824deee961.png",
+    "static/media/Rectangle2.png": "/FoodDeliveryLanding/static/media/Rectangle2.e1e5b6c6d97a1d17714f.png",
+    "static/media/Rectangle.png": "/FoodDeliveryLanding/static/media/Rectangle.2e5282ddcc6cc542e955.png",
+    "static/media/Rectangle1.png": "/FoodDeliveryLanding/static/media/Rectangle1.e8adae80600144764686.png",
+    "static/media/logo.png": "/FoodDeliveryLanding/static/media/logo.a79e7920c389af8d35c8.png",
+    "index.html": "/FoodDeliveryLanding/index.html",
+    "main.56f244f0.css.map": "/FoodDeliveryLanding/static/css/main.56f244f0.css.map",
+    "main.e68e8e78.js.map": "/FoodDeliveryLanding/static/js/main.e68e8e78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56f244f0.css",
+    "static/js/main.e68e8e78.js"
+  ]
+}
